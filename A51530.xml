@@ -1,0 +1,474 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mourning poets, or, An account of the poems on the death of the Queen in a letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51530</idno>
+            <idno type="STC">Wing M2993</idno>
+            <idno type="STC">ESTC R10229</idno>
+            <idno type="EEBO-CITATION">12533850</idno>
+            <idno type="OCLC">ocm 12533850</idno>
+            <idno type="VID">62819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62819)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 769:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mourning poets, or, An account of the poems on the death of the Queen in a letter to a friend.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62819:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 38 -->
+            <p>
+               <hi>The Mourning Poets:</hi> OR, AN ACCOUNT OF THE POEMS ON THE DEATH OF THE QUEEN.</p>
+            <p>In a Letter to a Friend.</p>
+            <q>
+               <l>Singula quae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> locum teneant ſortita decenter.</l>
+               <l>Si vis me flere, dolendum eſt</l>
+               <l>Primum ipſi tibi—male ſi mandata loqueris</l>
+               <l>Aut dormitabo aut ridebo.</l>
+               <bibl>
+                  <hi>Horat. de Art. Poet.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:62819:2"/>
+            <!-- PDF PAGE 39 -->
+            <pb n="3" facs="tcp:62819:2"/>
+            <!-- PDF PAGE 39 -->
+            <head>THE Mourning Poets, &amp;c.</head>
+            <head type="sub">In a Letter to a Friend.</head>
+            <lg>
+               <l>WHat! Would You ſee thoſe Poems on the Queen,</l>
+               <l>Which few, beſides the Printers, e're have ſeen?</l>
+               <l>I ſent you ſome which were eſteem'd the beſt,</l>
+               <l>Muſt you, my Friend, deſire th' unworthy reſt?</l>
+               <l>I'll bate you Hundreds that infeſt the Town,</l>
+               <l>And only ſend one bad one of my own:</l>
+               <l>But as the laſt ſtill borrows from the firſt,</l>
+               <l>'Tis wholly owing to the beſt and worſt;</l>
+               <l>Each, with a different Fate, exacts my Lays,</l>
+               <l>Some to commend, and others to diſpraiſe:</l>
+               <l>This be my Task, let abler Pens aſpire</l>
+               <l>To ſing a Queen, I only can admire;</l>
+               <l>My Virgin Muſe muſt modeſtly decline</l>
+               <l>Th' unequal Task, and ſtarts at the Deſign:</l>
+               <l>
+                  <hi>Maria</hi> is a Theme, She muſt forbear,</l>
+               <l>Her tender Pinions ſtill unfledg'd appear,</l>
+               <l>And cannot ſoar to ſo ſublime a Sphere.</l>
+            </lg>
+            <lg>
+               <l>Her Friends, I mean thoſe who her Right aſſert,</l>
+               <l>(For who were Foes to ſuch a high Deſert?)</l>
+               <pb n="4" facs="tcp:62819:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 40 -->
+               <l>In diſtant Regions, but in <hi>Albion</hi> moſt</l>
+               <l>Expreſs their Grief, and mourn <hi>Maria</hi> loſt:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nor does She fall unpitied ev'n by thoſe</hi>
+               </l>
+               <l>
+                  <hi>Whom the malicious World miſcals her Foes.</hi>
+               </l>
+               <l>Ev'n <hi>Dryden</hi> mourns; tho yet he does refuſe</l>
+               <l>To mourn in public, and exert his Muſe;</l>
+               <l>Nor can we well his Want of Love ſuſpect,</l>
+               <l>Who kindly could an abſent Muſe correct.</l>
+            </lg>
+            <lg>
+               <l>In <hi>Congreve Dryden</hi>'s ours, to Him we owe</l>
+               <l>The tuneful Notes which from <hi>Alexis</hi> flow:</l>
+               <l>He choſe out <hi>Congreve,</hi> and inſpir'd his Flame;</l>
+               <l>
+                  <hi>Congreve,</hi> his beſt belov'd, and next in Fame:</l>
+               <l>Whoſe Beams the unexpecting World ſurpriſe,</l>
+               <l>As when unſeen the Sun in Clouds does riſe,</l>
+               <l>Then breaking through, at once attracts our Eyes.</l>
+               <l>Unlike in this, no Night ſucceeds his Day,</l>
+               <l>But ſtill he ſhines with one continued Ray.</l>
+               <l>When in full Glory <hi>Congreve</hi> firſt appear'd,</l>
+               <l>We ſaw, we wonder'd, and confeſt the Bard:</l>
+               <l>
+                  <hi>Dryden</hi> by Thee All own theſe Wonders done,</l>
+               <l>Thou taught'ſt this Eagle to approach the Sun.</l>
+            </lg>
+            <lg>
+               <l>He to the Swains <hi>Paſtora</hi>'s Fate bemoans,</l>
+               <l>Sighs to the Winds, and fills the Vales with Groans.</l>
+               <l>The Vales return his Groans, the Winds his Sighs;</l>
+               <l>And ev'ry Swain repeats the tuneful Crys.</l>
+               <pb n="5" facs="tcp:62819:3"/>
+               <!-- PDF PAGE 40 -->
+               <l>Not ſo lamented <hi>Graecian Bion</hi> fell,</l>
+               <l>Nor <hi>Venus</hi> mourn'd the lovely Boy ſo well;</l>
+               <l>Poets unborn ſhall make his Lays their Theme,</l>
+               <l>And future <hi>Rapins</hi> take their Rules from him.</l>
+            </lg>
+            <lg>
+               <l>Here let me end his Praiſe, but whom, my Muſe,</l>
+               <l>Will't thou place next? place boldly next <hi>Motteux;</hi>
+               </l>
+               <l>Whoſe charming numbers can at once diſpence</l>
+               <l>The <hi>Gallic</hi> ſoftneſs, and the <hi>Brittiſh</hi> ſenſe:</l>
+               <l>He with his Labours does oblige our Iſle,</l>
+               <l>Adorns our Language, and refines our Stile,</l>
+               <l>Shows how to write, by what himſelf has writ,</l>
+               <l>And ſhames us <hi>Britons,</hi> to a ſenſe of Wit.</l>
+               <l>
+                  <hi>Horace</hi> himſelf, inſpir'd by him, prepares</l>
+               <l>To lull our Griefs, and ſtop our boundleſs Tears:</l>
+               <l>Scarce <hi>Horace</hi> ſung in ſo divine a ſtrain,</l>
+               <l>Scarce could he with ſuch Harmony complain;</l>
+               <l>The flowing numbers charm my Mind to Peace,</l>
+               <l>Enchant my Woes, and make ev'n Sorrow pleaſe.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Maria</hi>'s Death does <hi>Stepney</hi>'s Muſe revive,</l>
+               <l>And by his Muſe, <hi>Maria</hi> ſeems alive.</l>
+               <l>He, while his long neglected Flame returns,</l>
+               <l>Like <hi>Waller</hi> praiſes, and like <hi>Waller</hi> mourns,</l>
+               <l>His fainting Muſe uplifts her drooping Head,</l>
+               <l>And ſweetly ſings, when we bemoan'd her Dead:</l>
+               <pb n="6" facs="tcp:62819:4"/>
+               <!-- PDF PAGE 41 -->
+               <l>So in Diſtreſs <hi>Arion,</hi> doubly warm'd,</l>
+               <l>With Numbers thought his laſt, divinely charm'd.</l>
+               <l>Once, when his Hero's Voyage did employ</l>
+               <l>His artful Muſe, his Verſes flow'd with Joy;</l>
+               <l>He taught the <hi>Tritons</hi> on their Shells to play,</l>
+               <l>And prais'd, and bleſt <hi>Maria</hi>'s gentle Sway.</l>
+               <l>But now, like us, by Fate's Decree diſtreſt,</l>
+               <l>He mourns the Beauty, whom before he bleſt.</l>
+            </lg>
+            <lg>
+               <l>Majeſtic <hi>Dennis</hi> next demands my Lays;</l>
+               <l>Soar, Muſe, and ſtrive thy feeble Flight to raiſe,</l>
+               <l>In Numbers, like his own, attempt his Praiſe.</l>
+               <l>Like <hi>Pindar,</hi> he, unutterably bold,</l>
+               <l>Burns like a raging Fire, and cannot be contrould.</l>
+               <l>Gods! With what State his daring Thoughts ariſe,</l>
+               <l>While with ſonorous Wings he upwards flyes,</l>
+               <l>Till he ſeems loſt above his darling Skies!</l>
+               <l>Some wondrous active Force informs the whole,</l>
+               <l>Each Word has Life, and ev'ry Line a Soul.</l>
+               <l>Bold Pictures thus the help of Shades diſclaim,</l>
+               <l>There all is Light, all Heat, all dazzles, all is Flame.</l>
+               <l>How ſhall I ſhow his vaſt commanding Force!</l>
+               <l>His rapid Tranſports, and unequall'd Courſe!</l>
+               <l>His tow'ring Muſe which ſcorns a human Flight!</l>
+               <l>But ſhines aloft, and blinds with too exceſſive Light!</l>
+               <l>With him my Soul thro rapt'rous Regions flyes,</l>
+               <l>And drinks at once a rowling Stream of Joys;</l>
+               <pb n="7" facs="tcp:62819:4"/>
+               <!-- PDF PAGE 41 -->
+               <l>
+                  <hi>Convulſive Tranſports all my Vitals tear:</hi>
+               </l>
+               <l>
+                  <hi>Gods! 'tis too much, too much for Man to bear.</hi>
+               </l>
+               <l>
+                  <hi>Dennis,</hi> thy Words alone thy Thoughts can right,</l>
+               <l>As Fire is beſt diſcover'd by its Light.</l>
+               <l>I ceaſe, for tho my Blood with Fury boil,</l>
+               <l>To mock the Thunder is a dang'rous Toil.</l>
+            </lg>
+            <lg>
+               <l>Deſcend, my Muſe, reſume thy humble Strain,</l>
+               <l>Nor court a Pleaſure that's ally'd to Pain;</l>
+               <l>Let now the ſlow, tho zealous Bard be prais'd,</l>
+               <l>Who to his Muſe a <hi>Mauſoleum</hi> rais'd:</l>
+               <l>
+                  <hi>Maria</hi>'s Worth, and Royal Bounty prov'd</l>
+               <l>The Muſe, that beſt the <hi>Lawrell'd Poet</hi> mov'd.</l>
+               <l>See! The whole Man now labours to deplore,</l>
+               <l>Now ſtrains, and ſtrives above himſelf to ſoar.</l>
+               <l>What mighty care he takes t' improve a Thought!</l>
+               <l>A Slave to Senſe, and cautious to a Fault.</l>
+               <l>All modeſt Beauties thus, like prudent <hi>Tate,</hi>
+               </l>
+               <l>Falſe glitt'ring Gems, and gawdy Tinſel hate.</l>
+               <l>E're Elegy to noiſy Rant was turn'd,</l>
+               <l>This was obſerv'd when <hi>Rome</hi> and others mourn'd.</l>
+            </lg>
+            <lg>
+               <l>In <hi>Cowley</hi>'s ſtrain mourns <hi>Weſtley</hi>'s grateful Muſe,</l>
+               <l>Nor could ſhe well the doleful Task refuſe:</l>
+               <l>He ſhares a part of th' <hi>Engliſh Pindar</hi>'s Flame;</l>
+               <l>The ſame their Beauties, and their Faults the ſame.</l>
+               <pb n="8" facs="tcp:62819:5"/>
+               <!-- PDF PAGE 42 -->
+               <l>More gladly we his <hi>Life of Chriſt</hi> had ſeen,</l>
+               <l>Were his God prais'd as well as is his Queen.</l>
+               <l>Yet tho his Vein does by degrees refine,</l>
+               <l>Speaks him a Poet, and his Fancies ſhine,</l>
+               <l>
+                  <hi>Down, down, down, down,</hi> is what he ſhould decline.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Walſh</hi> with an artleſs Grief our loſs diſplays,</l>
+               <l>Smooth are his Words, and modeſt is his Praiſe,</l>
+               <l>Grave are his Thoughts, his Muſe to Vice a Foe.</l>
+               <l>Who could expect a Sermon from a Beau?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Gould's</hi> untaught Muſe on this betrays a Wit</l>
+               <l>For Satire more than Panegyric fit;</l>
+               <l>Tho in the Piece no Satire ſhould be ſeen</l>
+               <l>It ſhocks us leſs than his, <hi>God ſave the Queen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Talbot</hi> inſtructs the Painter how to ſhow,</l>
+               <l>With moving Art, this diſmal Pomp of Woe.</l>
+               <l>Oh! Painter, can'ſt thou draw what he can ſing,</l>
+               <l>A dying Queen, and a lamenting King?</l>
+            </lg>
+            <lg>
+               <l>Betimes our learn'd <hi>Academies</hi> reveal,</l>
+               <l>The Products of their ever forward Zeal;</l>
+               <l>In ſome, old <hi>Roman</hi> Beauties we deſcry,</l>
+               <l>With <hi>Virgil</hi> theſe, and thoſe with <hi>Horace</hi> vye.</l>
+               <l>Almoſt the ſame their Purity and Grace,</l>
+               <l>But not in all theſe mighty Charms we trace;</l>
+               <pb n="9" facs="tcp:62819:5"/>
+               <!-- PDF PAGE 42 -->
+               <l>All praiſe <hi>Maria,</hi> but not All with Flame,</l>
+               <l>And All to like's as bad as All to blame.</l>
+               <l>Here ſome in Epigrams their <hi>Sorrows</hi> vent,</l>
+               <l>In <hi>Syriac, Turkiſh,</hi> nay in <hi>Welſh</hi> lament;</l>
+               <l>There while like <hi>Rome</hi> Some would their Thoughts expreſs,</l>
+               <l>A Modern Air prophanes their Ancient Dreſs:</l>
+               <l>Yet 'tis leſs Guilt to venture on this Crime,</l>
+               <l>Than to commit odd <hi>Latin-Engliſh</hi> Rhyme.</l>
+               <l>For ſure the Dunce can be excus'd by none,</l>
+               <l>Who dead Tongues ſtudies, and unlearns his own:</l>
+               <l>Such more for Pedants than for Poets paſs,</l>
+               <l>As your meer Scholar is a learned Aſs:</l>
+               <l>Let theſe uſurp the Tongues of ev'ry Land;</l>
+               <l>Which They, and none but They half-underſtand,</l>
+               <l>Their idle Toyl, and Failures we'll excuſe,</l>
+               <l>So they in <hi>Engliſh</hi> ne'er debauch a Muſe.</l>
+               <l>Yet all in Colleges not thus are curſt,</l>
+               <l>Some in our Tongue ſtand equal with the Firſt:</l>
+               <l>Theſe like Exceptions are to gen'ral Rules,</l>
+               <l>Free from th' Infection of contagious Schools;</l>
+               <l>And had deſerv'd with Honour to be nam'd,</l>
+               <l>But moſt were ſilent, tho their Lays were claim'd.</l>
+            </lg>
+            <lg>
+               <l>Some <hi>Noble Pens</hi> gave Verſe, but not their Name,</l>
+               <l>Worthy at once, and negligent of Fame:</l>
+               <l>Theſe, with ſome few that ſcap'd me in the throng,</l>
+               <l>Miſs here the Dues which to their Lays belong.</l>
+            </lg>
+            <pb n="10" facs="tcp:62819:6"/>
+            <!-- PDF PAGE 43 -->
+            <lg>
+               <l>Some on this Theme not without Art have writ,</l>
+               <l>With here and there a glimm'ring Spark of Wit,</l>
+               <l>But ſtuft the reſt with old, flat, trivial Thoughts,</l>
+               <l>And ſcare the Beauties countervail the Faults.</l>
+            </lg>
+            <lg>
+               <l>Others, whoſe End and Dulneſs is the ſame,</l>
+               <l>In couples hunt that common Miſtreſs Fame;</l>
+               <l>A want of Senſe, and ſcarcity of Lines,</l>
+               <l>(Like Pedlars low in Stock) the Poetaſters joyns.</l>
+            </lg>
+            <lg>
+               <l>I'll ſlight a Wretch, who, to exalt his Theme,</l>
+               <l>Did bleſt <hi>Maria,</hi> and her God blaſpheme,</l>
+               <l>And to adorn his Queen, his Godhead rob;</l>
+               <l>Since <hi>J. D. Gent.</hi> proves only Blue-coat <hi>C</hi>—</l>
+            </lg>
+            <lg>
+               <l>Few Rhymers think Mediocrity their Lot;</l>
+               <l>So moſt will think they're wrong'd becauſe forgot,</l>
+               <l>Tho I forget 'em, but to wrong 'em not.</l>
+               <l>All ſhould their Tears, but not their Verſes bring,</l>
+               <l>For all can grieve, but very few can ſing.</l>
+               <l>Rhym'd Panegyrics Theſe in vain compoſe,</l>
+               <l>If they muſt praiſe, why don't They praiſe in Proſe?</l>
+               <l>Beſides, we're glutted, no diſtinction's had,</l>
+               <l>And the Good lye confounded with the Bad:</l>
+               <l>For who can read, tho he delights to toyl,</l>
+               <l>All the good Paper which our Scribblers ſpoyl?</l>
+               <pb n="11" facs="tcp:62819:6"/>
+               <!-- PDF PAGE 43 -->
+               <l>Yet to move Sadneſs let <hi>their Works</hi> be had,</l>
+               <l>And ſure they'll prove, unleſs the Reader's mad,</l>
+               <l>Grave, woful, diſmal, lamentably ſad.</l>
+               <l>What bulky Heaps of doleful Rhyme I ſee!</l>
+               <l>Sure all the World runs mad with Elegy;</l>
+               <l>Lords, Ladies, Knights, Prieſts, Souldiers, Squires, Phyſicians,</l>
+               <l>Beaux, Lawyers, Merchants, Prentices, Muſicians,</l>
+               <l>Play'rs, Footmen, Pedants, Scribes of all Conditions.</l>
+               <l>We moſt of Theſe the Rhyming Mob may call,</l>
+               <l>With Fuſtian Sheets encombring ev'ry Stall;</l>
+               <l>Wights by their ill, or their no Genius curſt</l>
+               <l>To copy ſtill, and copy for the worſt:</l>
+               <l>To Paper fatal, the lethargic Elves</l>
+               <l>At their own Coſt in Print lampoon themſelves;</l>
+               <l>Proud of whole Sheets of tedious Nothings full,</l>
+               <l>And like Themſelves emphatically dull.</l>
+            </lg>
+            <lg>
+               <l>Yet with pedantic, dark, <hi>proſaic</hi> Rhymes,</l>
+               <l>Or Bombaſt which irregularly chimes,</l>
+               <l>Theſe would be thought the <hi>Pindars</hi> of the Times:</l>
+               <l>Then may ſome Rill, aſpiring to be great,</l>
+               <l>With pigmy Waters mate a Mountain's height,</l>
+               <l>Pretend to roar, and ſcare the fearful Swains,</l>
+               <l>O'rewhelm its Banks, and foam, and roul impetuous o're the Plains.</l>
+            </lg>
+            <pb n="12" facs="tcp:62819:7"/>
+            <!-- PDF PAGE 44 -->
+            <lg>
+               <l>But who's the Cheif of this preſumptuous Band?</l>
+               <l>Place <hi>D—y</hi> firſt, and let him All command;</l>
+               <l>
+                  <hi>D—y</hi> not ev'n by this great Theme was fir'd,</l>
+               <l>
+                  <hi>But found himſelf alas not now inſpir'd</hi>
+               </l>
+               <l>
+                  <hi>With any Genius for Poetry,</hi>
+               </l>
+               <l>
+                  <hi>Such as They on theſe occaſions us'd to be.</hi>
+               </l>
+               <l>He, while his ſubject ſtrongly prompts to weep,</l>
+               <l>Can cauſe, with Feet that hobble, ſtrut, or creep,</l>
+               <l>Mirth, and then Pity, Anger, Scorn and Sleep.</l>
+               <l>He gives us Lines to fool our Sorrow fit,</l>
+               <l>The merrieſt <hi>Funeral Ode</hi> that e're was writ;</l>
+               <l>Yet falſe the Mirth, and treacherous the Relief,</l>
+               <l>He racks a ſacrilegious Laugh from Grief:</l>
+               <l>But like tart Draughts with nauſeous After taſts,</l>
+               <l>The Pleaſure paſſes, and the Loathing laſts.</l>
+               <l>Yet blame him not, He, to ill Stars a Slave,</l>
+               <l>When Grief ſhould rule is Gay, when Mirth is Grave;</l>
+               <l>Still to run counter is the <hi>Farcian's</hi> Rule,</l>
+               <l>Thus He turn'd <hi>Quixot</hi> out of Ridicule.</l>
+            </lg>
+            <lg>
+               <l>Then, <hi>Ye poor Snarlers of the Age,</hi> be gone,</l>
+               <l>'Tis ſcandalous to kick a Man that's down;</l>
+               <l>The Wretch is fall'n to ſuch a low Degree,</l>
+               <l>He claims Compaſſion, and from Satire's free.</l>
+            </lg>
+            <lg>
+               <l>'Tis time t'have done, thank Heav'n, my Paper's full,</l>
+               <l>Since ev'n the Thoughts of <hi>D—y</hi> make me Dull.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62819:7"/>
+            <!-- PDF PAGE 44 -->
+         </div>
+      </body>
+   </text>
+</TEI>
